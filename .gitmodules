@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "admmDensestSubmatrix"]
 	path = admmDensestSubmatrix
 	url = https://github.com/cran/admmDensestSubmatrix
-	shallow = true
-	registered = true
